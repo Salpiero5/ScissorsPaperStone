@@ -5,6 +5,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+
+        //little change
         boolean result;
         int input1;
         int input2;
